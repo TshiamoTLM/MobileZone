@@ -1,0 +1,916 @@
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.json
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\bin\Debug\net5.0\libman.json
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.exe
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.deps.json
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.json
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.dev.json
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\bin\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.dll
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csprojAssemblyReference.cache
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfoInputs.cache
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfo.cs
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CoreCompileInputs.cache
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cache
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cs
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.Manifest.cache
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.xml
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\scopedcss\bundle\MobileZone.styles.css
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.input.cache
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.output.cache
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorCoreGenerate.cache
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cache
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cs
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.genruntimeconfig.cache
+C:\Users\MaseMB\source\repos\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CopyComplete
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.json
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\bin\Debug\net5.0\libman.json
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.exe
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.deps.json
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.json
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.dev.json
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\bin\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csprojAssemblyReference.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfoInputs.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfo.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CoreCompileInputs.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.Manifest.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.xml
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\scopedcss\bundle\MobileZone.styles.css
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.input.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.output.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorCoreGenerate.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\Laptop.cshtml.g.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\SmartPhone.cshtml.g.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\SmartWatch.cshtml.g.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\Tablet.cshtml.g.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.genruntimeconfig.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity2\Solution\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CopyComplete
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.json
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\libman.json
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.exe
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.deps.json
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.json
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.dev.json
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csprojAssemblyReference.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfoInputs.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfo.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CoreCompileInputs.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.Manifest.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.xml
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\scopedcss\bundle\MobileZone.styles.css
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.input.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.output.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorCoreGenerate.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.genruntimeconfig.cache
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CopyComplete
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\About.cshtml.g.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Index.cshtml.g.cs
+C:\Users\MaseMB\Desktop\2022\Class Activities\PracticalActivity3\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\ViewAllDevices.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\libman.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.exe
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.deps.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.dev.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csprojAssemblyReference.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfoInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CoreCompileInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.Manifest.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.xml
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\scopedcss\bundle\MobileZone.styles.css
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.input.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.output.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorCoreGenerate.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CopyComplete
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.genruntimeconfig.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\libman.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.exe
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.deps.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.dev.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfoInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CoreCompileInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.Manifest.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.xml
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\scopedcss\bundle\MobileZone.styles.css
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.input.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.output.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorCoreGenerate.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CopyComplete
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.genruntimeconfig.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\List.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csprojAssemblyReference.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity4\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Details.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\libman.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.exe
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.deps.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.dev.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csprojAssemblyReference.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfoInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CoreCompileInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.Manifest.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.xml
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\scopedcss\bundle\MobileZone.styles.css
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.input.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.output.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorCoreGenerate.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Add.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Details.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\List.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CopyComplete
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.genruntimeconfig.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Edit.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity5\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Delete.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\libman.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.exe
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.deps.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.dev.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csprojAssemblyReference.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfoInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CoreCompileInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.Manifest.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.xml
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\scopedcss\bundle\MobileZone.styles.css
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.input.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.output.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorCoreGenerate.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Add.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Delete.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Details.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Edit.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\List.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CopyComplete
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.genruntimeconfig.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity6\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_AddEditPartialView.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\libman.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.exe
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.deps.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.dev.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csprojAssemblyReference.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfoInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CoreCompileInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.Manifest.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.xml
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\scopedcss\bundle\MobileZone.styles.css
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.input.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.output.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorCoreGenerate.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Add.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Delete.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Details.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Edit.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\List.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_AddEditPartialView.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CopyComplete
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity7\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.genruntimeconfig.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\libman.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.exe
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.deps.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.dev.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csprojAssemblyReference.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfoInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CoreCompileInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.Manifest.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.xml
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\scopedcss\bundle\MobileZone.styles.css
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.input.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.output.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorCoreGenerate.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Add.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Delete.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Details.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Edit.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\List.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_AddEditPartialView.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CopyComplete
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.genruntimeconfig.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csprojAssemblyReference.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfoInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CoreCompileInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.Manifest.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.xml
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\scopedcss\bundle\MobileZone.styles.css
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.input.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.output.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorCoreGenerate.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Add.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Delete.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Details.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Edit.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\List.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_AddEditPartialView.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\libman.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.exe
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.deps.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.dev.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CopyComplete
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity8\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.genruntimeconfig.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\libman.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.exe
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.deps.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.dev.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfoInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CoreCompileInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.Manifest.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.xml
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\scopedcss\bundle\MobileZone.styles.css
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.input.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.output.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorCoreGenerate.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Add.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Delete.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Details.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Edit.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\List.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_AddEditPartialView.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CopyComplete
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity9\Memo\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.genruntimeconfig.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\libman.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.exe
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.deps.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.dev.json
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csprojAssemblyReference.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfoInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CoreCompileInputs.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.Manifest.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.xml
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\scopedcss\bundle\MobileZone.styles.css
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.input.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.output.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorCoreGenerate.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Add.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Delete.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Details.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Edit.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\List.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_AddEditPartialView.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cache
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cs
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CopyComplete
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\ref\MobileZone.dll
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.pdb
+C:\Users\MaseMB\Desktop\ASP.NET Core 2022\Assessments\Class Activities\PracticalActivity10\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.genruntimeconfig.cache
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\appsettings.json
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\libman.json
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.exe
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.deps.json
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.json
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.runtimeconfig.dev.json
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\ref\MobileZone.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.pdb
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfoInputs.cache
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.AssemblyInfo.cs
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CoreCompileInputs.cache
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cache
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorAssemblyInfo.cs
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.Manifest.cache
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\staticwebassets\MobileZone.StaticWebAssets.xml
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\scopedcss\bundle\MobileZone.styles.css
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.input.cache
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.TagHelpers.output.cache
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorCoreGenerate.cache
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Add.cshtml.g.cs
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Delete.cshtml.g.cs
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Details.cshtml.g.cs
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\Edit.cshtml.g.cs
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Mobile\List.cshtml.g.cs
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_AddEditPartialView.cshtml.g.cs
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cache
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.RazorTargetAssemblyInfo.cs
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.Views.pdb
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.csproj.CopyComplete
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\ref\MobileZone.dll
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.pdb
+C:\Users\Maunatlala Tech Inc\Documents\2022 SCHOOL WOORK\CSIQ 3734\Activities\Activtity 10\StudentFiles(30)\StudentFiles\MobileZone\MobileZone\obj\Debug\net5.0\MobileZone.genruntimeconfig.cache

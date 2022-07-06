@@ -1,0 +1,19 @@
+﻿@model Mobile
+
+@{ ViewData["Title"] = "Edit Mobile Device"; }
+
+<h2>@ViewData["Title"]</h2>
+
+<hr />
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="ManufactureDate" />
+    <partial name="_AddEditPartialView" model="@Model" />
+    <div>
+        <br />
+        <button type="submit" value="Update" class="btn btn-primary">Update</button>
+        <button asp-action="List" asp-controller="Mobile"
+                class="btn btn-outline-secondary">
+            Cancel
+        </button>
+    </div>
+</form>

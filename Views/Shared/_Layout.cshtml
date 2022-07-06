@@ -1,0 +1,110 @@
+﻿@{
+    string controller =
+        ViewContext.RouteData.Values["controller"].ToString();
+    string action =
+        ViewContext.RouteData.Values["action"].ToString();
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" asp-href-include="/lib/bootstrap/css/bootstrap.min.css" />
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" asp-href-include="/lib/font-awesome/css/all.min.css" />
+
+    <!-- Custom Style sheet-->
+    <link rel="stylesheet" asp-href-include="/css/custom.css" />
+</head>
+<body>
+    <div id="Menu" class="container-fluid">
+        <div id="Navigation" class="navbar navbar-expand-sm bg-dark navbar-dark border border-primary">
+
+            <!-- Brand -->
+            <a class="navbar-brand font-weight-bolder" style="font-size:18px" asp-controller="Home" asp-action="Index">MoBDevices&copy;</a>
+
+            <!-- Toggler/collapsible Button -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse"
+                    data-target="#MyNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- Links -->
+            <div class="collapse navbar-collapse" id="MyNavbar">
+                <ul class="navbar-nav text-uppercase ml-auto">
+                    <li class="nav-item
+                        @(controller == "Home" && action == "Index" ? "active font-weight-bolder" : "")">
+                        <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+          
+                    <li class="nav-item
+                        @(controller == "Home" && action == "About" ? "active font-weight-bolder" : "")">
+                        <a class="nav-link" asp-controller="Home" asp-action="About">About</a>
+                    </li>
+
+                    
+                     @if (User.Identity.IsAuthenticated)
+                     {
+
+                            <li class="nav-item
+                           @(controller == "Mobile" && action == "List" ? "active font-weight-bolder" : "")">
+                           <a class="nav-link" asp-controller="Mobile" asp-action="List">Devices</a>
+                            </li>
+                     }
+
+                </ul>
+                 <ul class="navbar-nav ml-auto">
+
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li class="nav-link">Hello, @User.Identity.Name</li>
+                        <li class="nav-item">
+                            <form asp-controller="Account" asp-action="Logout" method="post">
+
+                                <button class="btn btn-link nav-link" type="submit">Log Out</button>
+
+                            </form>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Account" asp-action="Register">Register</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Account" asp-action="Login">Log in</a>
+                        </li>
+                    }
+
+                </ul>
+
+
+            </div>
+
+        </div>
+    </div>
+    <div class="container">
+        @RenderBody()
+    </div>
+    <div id="Footer" class="container-fluid">
+        <div class="bg-dark text-light text-uppercase text-center border border-primary mt-5">
+            <!-- Replace text below with your own Initials. Surname (Student no.)-->
+            <div>
+                Created by: TTL. Moloto <br />
+                &copy; 2022 MobileZone
+                - All rights reserved
+            </div>
+        </div>
+    </div>
+    <script asp-src-include="lib/jquery/jquery.slim.min.js"></script>
+
+    <script asp-src-include="lib/popper.js/popper.min.js"></script>
+
+    <script asp-src-include="lib/bootstrap/js/bootstrap.min.js"></script>
+
+</body>
+</html>

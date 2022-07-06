@@ -1,0 +1,70 @@
+﻿@model MobileListViewModel
+@{
+    ViewData["Title"] = "Mobile Devices";
+}
+
+<h2>@ViewData["Title"]</h2>
+<div>
+    @if (TempData["Message"] != null)
+    {
+        <div class="alert alert-primary alert-dismissible">
+            <button type="button" class="close" data-dismiss="alert" aria-label="close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+            @TempData["Message"]
+        </div>
+    }
+</div>
+<p>
+    <a role="link" asp-action="Add">Add New Device</a>
+</p>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                <a asp-controller="Mobile" asp-action="List"
+                   asp-route-sortBy="@ViewData["NameSortParam"]"
+                   asp-route-productPage="@Model.PagingInfo.CurrentPage">
+                    Name
+                </a>
+            </th>
+            <th>
+                Category
+            </th>
+            <th>
+                <a asp-controller="Mobile" asp-action="List"
+                   asp-route-sortBy="@ViewData["PriceSortParam"]"
+                   asp-route-mobilePage="@Model.PagingInfo.CurrentPage">
+                    Price
+
+                </a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model.Mobiles)
+        {
+            <tr>
+                <td>
+                    <a role="link" asp-action="Details" asp-route-id="@m.Id">
+                        @m.Name @* Display Name *@
+                    </a>
+                </td>
+                <td>
+                    @m.Category.CategoryName @* Display Category *@
+                </td>
+                <td>
+                    @m.Price.ToString("C") @* Display Price *@
+                </td>
+                <td>
+                    <a role="link" asp-action="Edit" asp-route-id="@m.Id" asp-route-slug="@m.Slug">Edit</a> |
+                    <a role="link" asp-action="Delete" asp-route-id="@m.Id" asp-route-slug="@m.Slug">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div page-model="@Model.PagingInfo" page-action="List" page-classes-enabled="true"
+     page-class="btn" page-class-normal="btn-outline-dark"
+     page-class-selected="btn-primary" class="btn-group pull-right m-1">
+</div>

@@ -1,0 +1,38 @@
+﻿@model Mobile
+@{ ViewData["Title"] = "Mobile Details"; }
+
+<h2>@ViewData["Title"] </h2>
+
+<div>
+    <hr />
+    <div class="font-weight-bold">@Model.Name</div> @* Display Name *@
+    <hr />
+    <p>
+        <span class="font-weight-bold">
+            @Html.DisplayNameFor(model=>model.Price)
+        </span><br />
+       @Model.Price.ToString("C") @* Display Price *@
+    </p>
+    <p>
+        <span class="font-weight-bold">
+            @Html.DisplayNameFor(model => model.Description)
+        </span><br />
+        @Model.Description@* Display Description *@
+    </p>
+    <p>
+        <span class="font-weight-bold">
+            @Html.DisplayNameFor(model => model.ManufactureDate)
+        </span><br />
+        @Model.ManufactureDate.ToShortDateString() @* Display ManufactureDate *@
+    </p>
+    <p>
+        <span class="font-weight-bold">
+            @Html.DisplayNameFor(model => model.IsInStock)
+        </span><br />
+        @Model.IsInStock@* Display IsInStock *@
+    </p>
+</div>
+<div>
+    <a role=link asp-action="Edit" asp-controller="Mobile" asp-route-id="@Model.Id">Edit</a> |
+    <a role=link asp-action="List" asp-controller="Mobile">Back to List</a>
+</div>

@@ -1,0 +1,18 @@
+﻿@model Mobile
+
+@{ ViewData["Title"] = "Delete Device"; }
+
+<h2>@ViewData["Title"]</h2>
+
+<h4>Are you sure you want to delete this device?</h4>
+<div>
+    <hr />
+    <h2 class="font-weight-bolder">@Model.Name device</h2>
+
+    <form method="post" asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" value="Delete" class="btn btn-primary">Delete</button> |
+        <a role=link asp-controller="Mobile" asp-action="List">Back to List</a>
+    </form>
+
+</div>
